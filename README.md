@@ -12,8 +12,6 @@ Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong 
 ![](https://nirzak-streak-stats.vercel.app/?user=Rajdip1&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajdip1&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rajdip1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajdip1&limit=5&theme=dark&combine_all_yearly_contributions=true)
