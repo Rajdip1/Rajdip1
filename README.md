@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong interest in building practical and user-focused fullstack mobile applications using Flutter and Firebase. <br>I enjoy exploring intelligent systems, turning ideas into working solutions, and continuously learning new technologies to improve my craft.<br>
+Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong interest in building practical and user-focused fullstack mobile applications. <br>I enjoy exploring intelligent systems, turning ideas into working solutions, and continuously learning new technologies to improve my craft.<br>
 
 
 ## 🌐 Socials:
