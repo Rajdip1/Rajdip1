@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong interest in building practical and user-focused fullstack mobile applications. <br>I enjoy exploring intelligent systems, turning ideas into working solutions, and continuously learning new technologies to improve my craft.<br>
-<img width="3168" height="1344" alt="Gemini_Generated_Image_jd1xdcjd1xdcjd1x" src="https://github.com/user-attachments/assets/8a268d7c-0763-4e01-b53e-32f6d571fcf6" />
+Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong interest in building practical and user-focused fullstack mobile applications using Flutter and React. <br>I enjoy exploring intelligent systems, turning ideas into working solutions, and continuously learning new technologies to improve my craft.<br>
+![1766421018214](https://github.com/user-attachments/assets/26b9aa18-1315-48a9-be0c-c19b535b445c)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/irajdps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irajdps/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.irajdpsdev@gmail.com) 
 
