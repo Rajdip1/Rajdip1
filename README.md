@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Rajdip — a passionate Data Science and AI/ML enthusiast with a strong interest in building practical and user-focused fullstack mobile applications using Flutter and React. 
-<br> I’m fascinated by how data and intelligence come together to power real-world applications. <br> 
+<br> I’m fascinated by how data and intelligence come together to power real-world applications.<br> 
 <br> Turning ideas into working solutions, and continuously learning new technologies to improve my craft. <br>
 ![1766421018214](https://github.com/user-attachments/assets/26b9aa18-1315-48a9-be0c-c19b535b445c)
 ## 🌐 Socials:
