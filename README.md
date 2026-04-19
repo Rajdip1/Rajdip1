@@ -6,9 +6,9 @@ I have a strong analytical and problem-solving mindset, with the ability to tran
 
 I have hands-on experience building end-to-end Machine Learning pipelines using Python, Scikit-learn, XGBoost, Flask, and FastAPI. My work includes:
 
-Fraud detection systems (ROC-AUC: 0.92)
-Time-series forecasting models
-NLP-based recommendation systems
+ - Fraud detection systems (ROC-AUC: 0.92)
+ - Time-series forecasting models
+ - NLP-based recommendation systems
 
 I am skilled in:
 
