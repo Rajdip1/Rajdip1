@@ -23,25 +23,25 @@ Additionally, I have experience in web and mobile application development using 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/irajdps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irajdps/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.irajdpsdev@gmail.com) 
 
 # 💻 Tech Stack:
-Languages:
+**Languages**:
 Python, JavaScript, Java, SQL, HTML5/CSS
 
-Databases:
+**Databases**:
 MongoDB, MySQL, Firebase
 
-Frameworks & Technologies:
+**Frameworks** & **Technologies**:
 Flutter, React, Next.js, Node.js, Flask, FastAPI, TensorFlow, PyTorch, LangChain
 
-Developer Tools:
+**Developer Tools**:
 Git, Docker, Kubernetes, MLflow, Postman, Jira
 
-Platforms & Cloud:
+**Platforms** & **Cloud**:
 GitHub, AWS, GCP, Azure
 
-Data & Analytics Tools:
+**Data** & **Analytics Tools**:
 Microsoft Excel, Power BI
 
-Libraries:
+**Libraries**:
 Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, SpaCy, OpenCV
 
 ---
