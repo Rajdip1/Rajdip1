@@ -29,16 +29,16 @@ Python, JavaScript, Java, SQL, HTML5/CSS
 **Databases**:
 MongoDB, MySQL, Firebase
 
-**Frameworks** & **Technologies**:
+**Frameworks & Technologies**:
 Flutter, React, Next.js, Node.js, Flask, FastAPI, TensorFlow, PyTorch, LangChain
 
 **Developer Tools**:
 Git, Docker, Kubernetes, MLflow, Postman, Jira
 
-**Platforms** & **Cloud**:
+**Platforms & Cloud**:
 GitHub, AWS, GCP, Azure
 
-**Data** & **Analytics Tools**:
+**Data & Analytics Tools**:
 Microsoft Excel, Power BI
 
 **Libraries**:
