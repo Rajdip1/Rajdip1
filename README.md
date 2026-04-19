@@ -1,5 +1,22 @@
-# 💫 About Me:
-Hi, I'm Rajdip — a technically skilled professional with a strong interest in AI, Machine Learning, and Data Science, along with hands-on experience supporting web and mobile application projects. <br> I’m fascinated by how data and intelligence come together to power real-world applications. <br> Turning ideas into working solutions, and continuously learning new technologies to improve my craft. <br>
+💫 About Me
+
+Hi, I'm Rajdip — a recent graduate with a B.Tech in Computer Engineering, passionate about AI/ML, Software Development, and Data Science.
+
+I have a strong analytical and problem-solving mindset, with the ability to translate complex technical concepts into practical business solutions—ensuring effective collaboration and timely project delivery.
+
+I have hands-on experience building end-to-end Machine Learning pipelines using Python, Scikit-learn, XGBoost, Flask, and FastAPI. My work includes:
+
+Fraud detection systems (ROC-AUC: 0.92)
+Time-series forecasting models
+NLP-based recommendation systems
+
+I am skilled in:
+
+Data preprocessing & feature engineering
+Model evaluation (MAE, RMSE, F1-score)
+Deploying ML models into production-ready applications
+
+Additionally, I have experience in web and mobile application development using React, Next.js, Flutter, Firebase, and REST APIs.
 ![1766421018214](https://github.com/user-attachments/assets/26b9aa18-1315-48a9-be0c-c19b535b445c)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/irajdps) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/irajdps/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.irajdpsdev@gmail.com) 
