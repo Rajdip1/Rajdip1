@@ -1,20 +1,26 @@
 💫 About Me
 
-Hi, I'm Rajdip — a recent graduate with a B.Tech in Computer Engineering, passionate about AI/ML, Software Development, and Data Science.
+Hi, I'm Rajdip - a Computer Engineering graduate passionate about building AI-powered applications that solve real-world problems.
 
-I have a strong analytical and problem-solving mindset, with the ability to translate complex technical concepts into practical business solutions—ensuring effective collaboration and timely project delivery.
+My primary interests are Agentic AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, and Backend Development. I enjoy designing intelligent systems that combine reasoning, retrieval, and scalable APIs to create practical AI solutions.
 
-I have hands-on experience building end-to-end Machine Learning pipelines using Python, Scikit-learn, XGBoost, Flask, and FastAPI. My work includes:
+I've built end-to-end AI and ML applications, including:
 
- - Fraud detection systems (ROC-AUC: 0.92)
- - Time-series forecasting models
- - NLP-based recommendation systems
+- 🤖 Adaptive RAG System using LangGraph, LangChain, Qdrant & FastAPI
+- 🧠 AI Agent workflows with intelligent query routing and ReAct-based reasoning
+- 🔍 NLP-based Fraud Detection (ROC-AUC: 0.92)
+- 📈 Retail Sales Analytics & Demand Forecasting
 
-I am skilled in:
+### 🛠 What I work with
 
- - Data preprocessing & feature engineering
- - Model evaluation (MAE, RMSE, F1-score)
- - Deploying ML models into production-ready applications
+- Agentic AI & AI Agents
+- LLMs, RAG Pipelines & Prompt Engineering
+- LangChain, LangGraph & Vector Databases
+- FastAPI, Flask & REST APIs
+- Python, Scikit-learn, XGBoost & TensorFlow
+- MongoDB, PostgreSQL & Docker
+
+I'm always exploring new AI technologies and enjoy building production-ready applications that bridge research with real-world impact.
 
 Additionally, I have experience in web and mobile application development using React, Next.js, Flutter, Firebase, and REST APIs.
 
@@ -24,19 +30,19 @@ Additionally, I have experience in web and mobile application development using 
 
 # 💻 Tech Stack:
 **Languages**:
-Python, JavaScript, Java, SQL, HTML5/CSS
+Python, JavaScript, SQL, HTML5/CSS
 
 **Databases**:
-MongoDB, MySQL, Firebase
+MongoDB, MySQL, Qdrant, Postgresql
 
 **Frameworks & Technologies**:
-Flutter, React, Next.js, Node.js, Flask, FastAPI, TensorFlow, PyTorch, LangChain
+Flask, FastAPI, React, Next.js, Node.js
 
 **Developer Tools**:
 Git, Docker, Kubernetes, MLflow, Postman, Jira
 
 **Platforms & Cloud**:
-GitHub, AWS, GCP, Azure
+GitHub, AWS
 
 **Data & Analytics Tools**:
 Microsoft Excel, Power BI
